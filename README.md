@@ -1,0 +1,7 @@
+- [x] Added Tailwind
+- [x] Added MDX
+- [x] Added remark-directive
+- [x] Added astro-m2DX
+- [x] Added Front Matter CMS
+- [x] Enabled Style directives
+- [x] Enabled Relative Images
