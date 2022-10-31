@@ -20,6 +20,7 @@
 - [x] Add Emojis
 - [x] Add ToC
 - [x] Add "Time to read"
+- [x] Added Tailwind Forms Styling
 
 # To Do
 

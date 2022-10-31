@@ -11,7 +11,7 @@ const { minutesRead } = Astro.props.frontmatter;
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="dark bg-white dark:bg-neutral-900">
+<html lang="en" class="dark bg-white">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
@@ -25,6 +25,18 @@ const { minutesRead } = Astro.props.frontmatter;
 	</head>
 	<body class="">
     <h1>{minutesRead}</h1>
+	<div class="container mx-auto prose prose-xl prose-zinc max-w-screen-md">
     <slot />
+</div>
   </body>
 </html>
+
+<style is:global>
+	ul.contains-task-list {
+    list-style: none;
+}
+input[type="checkbox"] {
+	margin: 0;
+	@apply bg-red-100 border-red-300 text-red-500 focus:ring-red-200 h-6 w-6 shadow
+}
+</style>
