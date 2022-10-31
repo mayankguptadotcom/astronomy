@@ -1,5 +1,6 @@
 ---
 const pageTitle = "About Me";
+import Layout from '../layouts/Layout.astro';
 
 const identity = {
   firstName: "Sarah",
@@ -11,8 +12,12 @@ const identity = {
 const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
 ---
 
+
+<Layout title="Welcome to Astro.">
+	<main>
+
 <p>Here are a few facts {pageTitle}</p>
-<ul>
+<ul class="text-white">
   <li>My name is {identity.firstName}.</li>
   <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
   {identity.hobbies.length >= 2 && 
@@ -23,3 +28,7 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
 <ul>
   {skills.map((skill) => <li>{skill}</li>)}
 </ul>
+
+<h1 class="text-2xl text-blue-600">Test</h1>
+</main>
+</Layout>

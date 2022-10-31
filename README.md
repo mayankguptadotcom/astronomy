@@ -13,32 +13,33 @@
 - [x] Add Astro SEO             
 - [x] Add Analytics https://github.com/Destiner/astro-analytics#readme
 - [x] Add Robots.txt https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme
+- [x] Add Webmention.io
+- [x] Add Embeds support
+- [x] configure mdx autoimports- m2dx
+- [x] Add Remark-GFM
+- [x] Add Emojis
+- [x] Add ToC
+- [x] Add "Time to read"
 
 # To Do
 
 - [ ] Filter drafts from sitemap
 - [ ] configure sitemap
-- [ ] configure mdx single layout - m2dx
-- [ ] Add Embeds support
 - [ ] Add Pagination https://github.com/iozcelik/SarissaPagination
-- [ ] Add ToC
 - [ ] Configure Shinki
 - [ ] Add Favicon
-- [ ] Add Emojis
 - [ ] Add Lunr Search
 - [ ] Add accessibility https://www.npmjs.com/package/accessible-astro-components
 - [ ] Add Compression
-- [ ] Configure tailwind in single css
 - [ ] Add swup.js
 - [ ] Configure Robots.txt
+- [ ] Add Social links
 
 ## Blog
 - [ ] Add blog index
 - [ ] Add category page
 - [ ] Add tags page
 - [ ] Add 404
-- [ ] Add "Time to read"
 - [ ] Add "percent read"
 - [ ] Add comment by tweet
-- [ ] Add webmentions.io
-
+- [ ] Configure webmentions.io
