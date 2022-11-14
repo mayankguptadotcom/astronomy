@@ -20,6 +20,7 @@
 - [x] Add ToC
 - [x] Add "Time to read"
 - [x] Added Tailwind Forms Styling plugin
+- [x] Add Compression
 
 # To Do
 
@@ -32,7 +33,6 @@
 - [ ] Add Favicon
 - [ ] Add Lunr Search
 - [ ] Add accessibility https://www.npmjs.com/package/accessible-astro-components
-- [ ] Add Compression
 - [ ] Add swup.js
 - [ ] Configure Robots.txt
 - [ ] Add Social links
