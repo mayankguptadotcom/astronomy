@@ -63,5 +63,7 @@
     "successes"
   ],
   "frontMatter.taxonomy.categories": [],
-  "frontMatter.dashboard.openOnStart": true
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.fmHighlight": true
 }

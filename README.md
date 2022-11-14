@@ -13,17 +13,18 @@
 - [x] Add Astro SEO             
 - [x] Add Analytics https://github.com/Destiner/astro-analytics#readme
 - [x] Add Robots.txt https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme
-- [x] Add Webmention.io
 - [x] Add Embeds support
 - [x] configure mdx autoimports- m2dx
 - [x] Add Remark-GFM
 - [x] Add Emojis
 - [x] Add ToC
 - [x] Add "Time to read"
-- [x] Added Tailwind Forms Styling
+- [x] Added Tailwind Forms Styling plugin
 
 # To Do
 
+- [ ] Add Webmention.io
+- [ ] Add https://github.com/goblindegook/littlefoot
 - [ ] Filter drafts from sitemap
 - [ ] configure sitemap
 - [ ] Add Pagination https://github.com/iozcelik/SarissaPagination
