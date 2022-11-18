@@ -21,6 +21,7 @@
 - [x] Add "Time to read"
 - [x] Added Tailwind Forms Styling plugin
 - [x] Add Compression
+- [x] Add 404
 
 # To Do
 
@@ -41,7 +42,6 @@
 - [ ] Add blog index
 - [ ] Add category page
 - [ ] Add tags page
-- [ ] Add 404
 - [ ] Add "percent read"
 - [ ] Add comment by tweet
 - [ ] Configure webmentions.io
