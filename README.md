@@ -23,10 +23,12 @@
 - [x] Add Compression
 - [x] Add 404
 
+# In Progress
+- [ ] Add https://github.com/goblindegook/littlefoot
+
 # To Do
 
 - [ ] Add Webmention.io
-- [ ] Add https://github.com/goblindegook/littlefoot
 - [ ] Filter drafts from sitemap
 - [ ] configure sitemap
 - [ ] Add Pagination https://github.com/iozcelik/SarissaPagination
