@@ -22,9 +22,9 @@
 - [x] Added Tailwind Forms Styling plugin
 - [x] Add Compression
 - [x] Add 404
+- [x] Add https://github.com/goblindegook/littlefoot
 
 # In Progress
-- [ ] Add https://github.com/goblindegook/littlefoot
 
 # To Do
 
