@@ -39,6 +39,7 @@
 - [ ] Add swup.js
 - [ ] Configure Robots.txt
 - [ ] Add Social links
+- [ ] Fix astro-icon package issue (Error: Unknown builtin plugin "cleanupIDs" specified.)
 
 ## Blog
 - [ ] Add blog index
