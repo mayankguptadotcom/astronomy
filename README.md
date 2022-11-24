@@ -23,6 +23,7 @@
 - [x] Add Compression
 - [x] Add 404
 - [x] Add https://github.com/goblindegook/littlefoot
+- [x] Fix astro-icon package issue (Error: Unknown builtin plugin "cleanupIDs" specified.)
 
 # In Progress
 
@@ -39,7 +40,6 @@
 - [ ] Add swup.js
 - [ ] Configure Robots.txt
 - [ ] Add Social links
-- [ ] Fix astro-icon package issue (Error: Unknown builtin plugin "cleanupIDs" specified.)
 
 ## Blog
 - [ ] Add blog index
